@@ -1,2 +1,2 @@
 # ProblemSolving
-##Day by day
+Day by day
