@@ -29,6 +29,7 @@
 |25083. 새싹|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/25083.%E2%80%85%EC%83%88%EC%8B%B9/README.md)|
 |2557. Hello World|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
 |2566. 최댓값|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2566.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md)|
+|2581. 소수|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2581.%E2%80%85%EC%86%8C%EC%88%98/README.md)|
 |2675. 문자열 반복|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5/README.md)|
 |2720. 세탁소 사장 동혁|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2720.%E2%80%85%EC%84%B8%ED%83%81%EC%86%8C%E2%80%85%EC%82%AC%EC%9E%A5%E2%80%85%EB%8F%99%ED%98%81/README.md)|
 |2738. 행렬 덧셈|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2738.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EB%8D%A7%EC%85%88/README.md)|
