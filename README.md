@@ -40,6 +40,7 @@
 |5086. 배수와 약수|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/5086.%E2%80%85%EB%B0%B0%EC%88%98%EC%99%80%E2%80%85%EC%95%BD%EC%88%98/README.md)|
 |5597. 과제 안 내신 분．．？|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/5597.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%95%88%E2%80%85%EB%82%B4%EC%8B%A0%E2%80%85%EB%B6%84%EF%BC%8E%EF%BC%8E%EF%BC%9F/README.md)|
 |5622. 다이얼|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/README.md)|
+|9506. 약수들의 합|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/9506.%E2%80%85%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
