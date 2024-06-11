@@ -25,6 +25,7 @@
 |15552. 빠른 A＋B|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/15552.%E2%80%85%EB%B9%A0%EB%A5%B8%E2%80%85A%EF%BC%8BB/README.md)|
 |2292. 벌집|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2292.%E2%80%85%EB%B2%8C%EC%A7%91/README.md)|
 |2444. 별 찍기 － 7|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2444.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%857/README.md)|
+|2501. 약수 구하기|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2501.%E2%80%85%EC%95%BD%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md)|
 |25083. 새싹|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/25083.%E2%80%85%EC%83%88%EC%8B%B9/README.md)|
 |2557. Hello World|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
 |2566. 최댓값|[링크](./Python/%EB%B0%B1%EC%A4%80/Bronze/2566.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md)|
