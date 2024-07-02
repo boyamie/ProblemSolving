@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+# UTF-8 encoding when using korean
+a, b = input().split()
+a_re = eval(a)
+b_re = eval(b)
+if a_re >= b_re:
+	print(a_re)
+else:
+	print(b_re)
