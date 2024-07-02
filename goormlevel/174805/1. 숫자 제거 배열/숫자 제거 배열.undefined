@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+# UTF-8 encoding when using korean
+import sys
+input = sys.stdin.readline
+answer = []
+n, k = input().split()
+lst = list(input().split())
+for i in lst:
+	if k not in i:
+			answer.append(i)
+
+lng = len(answer)
+print(lng)
