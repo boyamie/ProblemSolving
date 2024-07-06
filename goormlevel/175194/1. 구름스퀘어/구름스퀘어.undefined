@@ -1,0 +1,17 @@
+import sys
+input = sys.stdin.readline
+n = int(input())
+event = []
+for i in range(n):
+    s, e = map(int, input().split())
+    event.append([s,e])
+
+cnt = 0
+end = 0
+
+event.sort(key = lambda x: (x[1], x[0]))
+for s,e in event:
+    if s > end:
+        cnt += 1
+        end = e
+print(cnt)
