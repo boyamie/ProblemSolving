@@ -72,6 +72,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1. 정사각형의 개수|[링크](./goormlevel/49086/1.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md)|
+|1009. 분산처리|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1009.%E2%80%85%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC/%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC.py)|
 |10101. 삼각형 외우기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10101.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%99%B8%EC%9A%B0%EA%B8%B0/README.md)|
 |1032. 명령 프롬프트|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1032.%E2%80%85%EB%AA%85%EB%A0%B9%E2%80%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/%EB%AA%85%EB%A0%B9%E2%80%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.py)|
 |10718. We love kriii|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10718.%E2%80%85We%E2%80%85love%E2%80%85kriii/README.md)|
