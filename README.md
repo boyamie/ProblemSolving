@@ -171,6 +171,7 @@
 |2161. 카드1|[링크](./%EB%B0%B1%EC%A4%80/Silver/2161.%E2%80%85%EC%B9%B4%EB%93%9C1/%EC%B9%B4%EB%93%9C1.py)|
 |2164. 카드2|[링크](./%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2/%EC%B9%B4%EB%93%9C2.py)|
 |2178. 미로 탐색|[링크](./%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89/README.md)|
+|23246. Sport Climbing Combined|[링크](./%EB%B0%B1%EC%A4%80/Silver/23246.%E2%80%85Sport%E2%80%85Climbing%E2%80%85Combined/Sport%E2%80%85Climbing%E2%80%85Combined.py)|
 |25096. Pancake Deque|[링크](./%EB%B0%B1%EC%A4%80/Silver/25096.%E2%80%85Pancake%E2%80%85Deque/README.md)|
 |2579. 계단 오르기|[링크](./%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/README.md)|
 |2751. 수 정렬하기 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/2751.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md)|
